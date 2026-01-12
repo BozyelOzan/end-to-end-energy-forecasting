@@ -129,3 +129,7 @@ Ozan Bozyel Biomedical Engineer & Deep Learning Practitioner
 
 Passionate about building scalable AI systems, bridging the gap between research models and production engineering. Experienced in MLOps, Medical AI, and Resource-Constrained ML.
 ```
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ozan-bozyel)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ozanbozyel.job@gmail.com)
