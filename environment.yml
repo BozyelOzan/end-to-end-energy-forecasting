@@ -1,0 +1,25 @@
+name: mlops-energy
+channels:
+  - rapidsai
+  - conda-forge
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - ipykernel
+  - cudf=24.04
+  - cuml=24.04
+  - cugraph=24.04
+  - xgboost
+  - optuna
+  - scikit-learn
+  - pandas
+  - numpy
+  - mlflow
+  - fastapi
+  - uvicorn[standard]
+  - pydantic
+  - python-dotenv
+  - pytest
