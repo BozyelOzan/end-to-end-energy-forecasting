@@ -81,7 +81,8 @@ energy-forecasting-mlops/
 │   └── utils.py          # Hardware compatibility utils
 ├── notebooks/            # EDA and Analysis notebooks
 ├── tests/                # Unit tests for pipeline integrity
-├── predict.py            # Inference script (Single Model)
+├── predict_xgb.py        # Inference script (XGBoost Model)
+├── predict_lgbm.py       # Inference script (LightGBM Model)
 ├── ensemble.py           # Meta-model inference script
 └── requirements.txt      # Project dependencies
 ```
