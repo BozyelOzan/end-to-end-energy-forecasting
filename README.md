@@ -7,7 +7,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker&logoColor=white)
 
-An end-to-end Machine Learning pipeline designed to forecast energy consumption of buildings based on the **ASHRAE - Great Energy Predictor III** dataset.
+An end-to-end Machine Learning pipeline designed to forecast energy consumption of buildings based on the [**ASHRAE - Great Energy Predictor III**](https://www.kaggle.com/competitions/ashrae-energy-prediction) dataset.
 
 This project demonstrates a **production-ready approach** to handling large-scale tabular data (20M+ rows) on consumer hardware (6GB VRAM) by implementing a **Hybrid CPU/GPU Pipeline**, **Advanced Feature Engineering**, and **Model Ensembling**.
 
